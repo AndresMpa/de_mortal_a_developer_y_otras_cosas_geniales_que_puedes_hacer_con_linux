@@ -1,2 +1,8 @@
-# de_mortal_a_developer_y_otras_cosas_geniales_que_puedes_hacer_con_linux
+<div align="center">
+
+  # De mortal a developer y otras cosas geniales que puedes hacer con linux
+  
+</div>
+
+
 Una charla sobre las cosas interesantes y potentes que puede hacer un sistema operativo como GNU/Linux
