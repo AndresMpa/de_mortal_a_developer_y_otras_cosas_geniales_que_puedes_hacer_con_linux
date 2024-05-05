@@ -5,4 +5,4 @@
 </div>
 
 
-Una charla sobre las cosas interesantes y potentes que puede hacer un sistema operativo como GNU/Linux
+Una charla sobre las cosas interesantes y potentes que puedes hacer con un sistema operativo como GNU/Linux
